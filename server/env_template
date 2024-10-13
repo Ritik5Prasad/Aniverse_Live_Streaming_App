@@ -1,0 +1,6 @@
+MONGO_URI=mongodb+srv://XXXXXXX:XXXXXXX@cluster0.p2ich.mongodb.net/aniverse?retryWrites=true&w=majority&appName=Cluster0
+ACCESS_TOKEN_SECRET=tomandjerry
+ACCESS_TOKEN_EXPIRY=1d
+REFRESH_TOKEN_SECRET=jerryandtom
+REFRESH_TOKEN_EXPIRY=30d
+GOOGLE_CLIENT_ID=XXXXX-XXXXXXXXX.apps.googleusercontent.com

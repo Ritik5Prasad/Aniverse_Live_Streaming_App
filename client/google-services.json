@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804033788140",
+    "project_id": "aniverse-bad10",
+    "storage_bucket": "aniverse-bad10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804033788140:android:58f786714f023470d68dc9",
+        "android_client_info": {
+          "package_name": "com.ritik.aniverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXFQjHd_nQVGPMS-u6UwEUa0z0d9lwMOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
